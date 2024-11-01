@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
 :root {
-    --bg-color: #222831;
-    --primary-color: #DDDDDD;
-    --secondary-color: #F05454;
-    --font: "Nunito Sans", sans-serif;
+    --bg-color: hsl(303, 38%, 55%);
+    --primary-color: hsl(0, 8%, 88%);
+    --secondary-color: #180d20;
+    --font: "Imperial Script", sans-serif;
 }
 
 body {
